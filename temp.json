@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "David L. Stern",
+            "title": "Top Ukrainian officials ousted in anti-corruption sweep - The Washington Post",
+            "description": "Officials in the president's office and Defense Ministry lost their jobs as Kyiv moved to zero tolerance for corruption that could shake the confidence of Western supporters.",
+            "url": "https://www.washingtonpost.com/world/2023/01/24/ukraine-officials-ousted-corruption-zelensky/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KEKNFC6TUSNA52AQ3VQ56FI3EE.JPG&w=1440",
+            "publishedAt": "2023-01-24T14:28:47Z",
+            "content": "Comment on this story\r\nKYIV, Ukraine Several senior Ukrainian officials were swept out of their posts on Tuesday, including a close adviser of President Volodymyr Zelensky, in part over corruption al… [+4702 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "California staggered by deadly back-to-back mass shootings - Reuters",
+            "description": "Just two days after a gunman killed 11 people at a Los Angeles-area dance studio, seven more victims were shot dead in an agricultural area near San Francisco, as California suffered one of its bloodiest spates of mass gun violence in decades.",
+            "url": "https://www.reuters.com/world/us/california-staggered-by-deadly-back-to-back-mass-shootings-2023-01-24/",
+            "urlToImage": "https://www.reuters.com/resizer/1gY-IXvcUkGIfkmGLS3Tvceo3HI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZV4KNM3D5VIJXFD5EWBDTC4FMU.jpg",
+            "publishedAt": "2023-01-24T13:53:00Z",
+            "content": "MONTEREY PARK, Calif., Jan 24 (Reuters) - Just two days after a gunman killed 11 people at a Los Angeles-area dance studio, seven more victims were shot dead in an agricultural area near San Francisc… [+5919 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Parija Kavilanz",
+            "title": "Live Nation exec will face lawmakers about Taylor Swift concert tickets fiasco - CNN",
+            "description": "Lawmakers are set to grill top executives from the event ticketing industry on Tuesday after Ticketmaster's inability to process orders for Taylor Swift's upcoming tour left millions of fans unable to buy tickets or without their ticket even after purchase.",
+            "url": "https://www.cnn.com/2023/01/24/business/taylor-swift-ticketmaster-hearing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230120120312-restricted-taylor-swift-ticketmaster-senate-hearing-walkup.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-24T13:52:00Z",
+            "content": "Lawmakers are set to grill top executives fromthe event ticketing industry on Tuesday after Ticketmasters inability to process orders for Taylor Swifts upcoming tour left millions of fans unable to b… [+7265 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": "Dan Hanzus",
+            "title": "NFL Power Rankings, Championship Sunday: Bengals, Eagles ride high; Bills, Cowboys bow out - NFL.com",
+            "description": "In his Championship Sunday Power Rankings, Dan Hanzus reveals a new pecking order for the four teams still alive in the NFL playoffs, while also slotting the quartet eliminated during the Divisional Round.",
+            "url": "https://www.nfl.com/news/nfl-power-rankings-championship-sunday-2022-season",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ynmevof3b98lpaz0rdct",
+            "publishedAt": "2023-01-24T13:26:00Z",
+            "content": "And then there were four.\r\nSure, we were hoping for perhaps a little more drama from the Divisional Round of the playoffs, but ultimately, we all get the desired result: The four best teams are left … [+763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PEOPLE"
+            },
+            "author": "https://www.facebook.com/peoplemag",
+            "title": "Princess Eugenie Is Pregnant! Royal Announces She's Expecting Baby No. 2 with Jack Brooksbank - Yahoo Entertainment",
+            "description": "Princess Eugenie, the granddaughter of Queen Elizabeth and niece of King Charles, is expecting her second child with husband Jack Brooksbank",
+            "url": "https://people.com/royals/princess-eugenie-pregnant-expecting-second-child-jack-brooksbank/",
+            "urlToImage": "https://people.com/thmb/8ind5xNYs2sUXJPTWT-Qp_ua-jU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1004x489:1006x491)/princess-eugenie-jack-brooksbanks-black-rose-foundation-110122-9e162a3e657e467d861a6930f677c9f3.jpg",
+            "publishedAt": "2023-01-24T13:21:09Z",
+            "content": "Princess Eugenie and Jack Brooksbank have some exciting news she's pregnant!\r\nQueen Elizabeth II's granddaughter announced that she is expecting a baby in a statement released by Buckingham Palace. T… [+3723 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Oakland shooting kills 1, injures 7 others; 3rd mass shooting in California in 3 days - CBS San Francisco",
+            "description": "A mass shooting at a gas station in Oakland Monday evening killed at least one person and injured at least seven others, the second mass shooting in the Bay Area Monday and the third in California in three days.",
+            "url": "https://www.cbsnews.com/sanfrancisco/news/oakland-mass-shooting-macarthur-boulevard-seminary-avenue-mills-college/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/24/35cf6e90-2432-4771-840e-0d42eaeaece6/thumbnail/1200x630/17c5f1b0112a5bad2834101d2707699a/oakland-mass-shooting.jpg",
+            "publishedAt": "2023-01-24T13:06:00Z",
+            "content": "OAKLAND -- A mass shooting at a gas station in Oakland Monday evening killed at least one person and injured at least seven others, the second mass shooting in the Bay Area Monday and the third in Ca… [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "Finland says a 'time-out' is needed in talks with Turkey over Nordic NATO membership - CNBC",
+            "description": "Accepting a new NATO member state requires unanimous consent of all 30 current members; Turkey is the one member most vocally opposing the new accession.",
+            "url": "https://www.cnbc.com/2023/01/24/finland-time-out-needed-in-talks-with-turkey-over-nato-membership.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182887-1674562879463-gettyimages-1245222741-AFP_32WF3EJ.jpeg?v=1674565382&w=1920&h=1080",
+            "publishedAt": "2023-01-24T13:03:02Z",
+            "content": "Finland's Foreign Minister Pekka Haavisto arrives for the meeting of the NATO Ministers of Foreign Affairs in Bucharest, Romania, on November 30, 2022.\r\nFinland is calling for a \"time-out\" in talks w… [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/devindra-hardawar",
+            "title": "LG's latest CineBeam ultra short-throw projector is a dream — if you can afford it - Engadget",
+            "description": "LG's latest CineBeam ultra short-throw projector is a dream, but it sure is pricey..",
+            "url": "https://www.engadget.com/lg-cinebeam-hu915qe-review-ust-projector-130042561.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/6f12f500-98fb-11ed-afde-65c233381a8c",
+            "publishedAt": "2023-01-24T13:02:04Z",
+            "content": "While my setup wasn't ideal, the CineBeam HU915QE still delivered most of what I wanted: A large and luscious dose of cinema in my basement screening room. Almost immediately, I noticed that it produ… [+4893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "David Schoenfield",
+            "title": "Everything you need to know on Baseball Hall of Fame day - ESPN",
+            "description": "From who could get in to who could get pushed off the ballot, here's your election day primer.",
+            "url": "https://www.espn.com/mlb/story/_/id/35510142/mlb-baseball-hall-fame-day-2023-explained",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0118%2Fr1119296_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-01-24T12:02:04Z",
+            "content": "The Baseball Hall of Fame could see a new addition by the end of the night, when the results of the Baseball Writers Association of America balloting are revealed at 6 p.m. ET on MLB Network.\r\nAll 28… [+14309 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jonathan M. Gitlin",
+            "title": "The Polestar 2 gets new electric motors in mid-life refresh - Ars Technica",
+            "description": "Cosmetic changes include a new front, and the single-motor car is now rear-driven.",
+            "url": "https://arstechnica.com/cars/2023/01/the-polestar-2-gets-new-electric-motors-in-mid-life-refresh/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/01/Polestar-2-MY24-2-760x380.jpg",
+            "publishedAt": "2023-01-24T12:00:11Z",
+            "content": "Enlarge/ Polestar has given the Polestar 2 a new nose treatment for model-year 2024.\r\n28 with 0 posters participating\r\nThe current electric vehicle renaissance has been properly underway for a few ye… [+3206 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "GE's 2023 profit forecast weighed down by renewable business - CNBC",
+            "description": "GE forecast a lower-than-expected 2023 adjusted profit on Tuesday, as it struggles with persistent problems at its money-losing renewable energy business.",
+            "url": "https://www.cnbc.com/2023/01/24/ge-forecasts-weak-2023-profit-on-troubles-at-renewable-business.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106080823-15658719667522019-07-31t115709z_1055409485_rc1ccce6e010_rtrmadp_3_ge-results.jpg?v=1674560856&w=1920&h=1080",
+            "publishedAt": "2023-01-24T11:47:36Z",
+            "content": "General Electric forecast a lower-than-expected 2023 adjusted profit on Tuesday, as the industrial major struggles with persistent problems at its money-losing renewable energy business.\r\nShares in G… [+1353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Elon Musk says Tesla tweet was genuine in fraud case - BBC",
+            "description": "The billionaire is accused of defrauding investors after a tweet claiming he had support for a deal.",
+            "url": "https://www.bbc.com/news/business-64384278",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17A1/production/_128394060_elonmuskdrawing.png",
+            "publishedAt": "2023-01-24T11:11:31Z",
+            "content": "Elon Musk has told a court that he believed he had enough backing to take Tesla private at the time he issued a controversial tweet.\r\nThe boss of the electric car company is on trial after investors … [+4418 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Indian university warns students not to screen BBC documentary on Modi - Reuters India",
+            "description": "A top Indian university has threatened strict disciplinary action if its students' union carries out plans on Tuesday to screen a BBC documentary on Prime Minister Narendra Modi, saying the move might disturb peace and harmony on campus.",
+            "url": "https://www.reuters.com/world/india/indian-university-warns-against-screening-bbc-documentary-modi-2023-01-24/",
+            "urlToImage": "https://www.reuters.com/resizer/VIiBUZJ89AyJEJmcWKot-dUcmR8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I4ARU37AQ5JUFLSFGQYRSRXEGU.jpg",
+            "publishedAt": "2023-01-24T11:07:00Z",
+            "content": "NEW DELHI, Jan 24 (Reuters) - A top Indian university has threatened strict disciplinary action if its students' union carries out plans on Tuesday to screen a BBC documentary on Prime Minister Naren… [+2827 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mariella-moon",
+            "title": "Amazon's RxPass offers Prime members generic medications for $5 a month - Engadget",
+            "description": "The RxPass program lets subscribers get as many medications as they need for covered conditions for $5 a month..",
+            "url": "https://www.engadget.com/amazon-rxpass-prime-generic-medications-5-a-month-103007949.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/3cb551b0-9bc2-11ed-9fbf-6c03b54322b2",
+            "publishedAt": "2023-01-24T10:31:08Z",
+            "content": "Amazon has launched a new subscription service that will let customers in the US get as many eligible medications as they need for $5 a month. The new service called RxPass is part of the e-commerce … [+1455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Damien Wilde",
+            "title": "[Update: Pixel 7 Pro comparison] Galaxy S23 Ultra unboxing leaks alongside low-light and camera zoom samples - 9to5Google",
+            "description": "Despite being a few weeks away, the Galaxy S23 Ultra has leaked with a hands-on video unboxing that was shared along with camera samples.",
+            "url": "https://9to5google.com/2023/01/24/galaxy-s23-ultra-unboxing/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/Galaxy-S23-Ultra-unboxing-leak-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-01-24T10:04:00Z",
+            "content": "While we wait for Samsung to unveil the next S-series flagship, we’re already seeing the Galaxy S23 Ultra get an unboxing ahead of the official launch.\r\nAn unboxing video shared by Twitter user Edwar… [+3405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Webb Peers Into Frozen Heart of Molecular Cloud – Unveils Dark Side of Pre-Stellar Ice Chemistry - SciTechDaily",
+            "description": "Webb has identified frozen forms of a wide range of molecules, including carbon dioxide, ammonia, and methane. The discovery of diverse ices in the darkest regions of a cold molecular cloud measured to date has been announced by an international team of astro…",
+            "url": "https://scitechdaily.com/?p=245959",
+            "urlToImage": "https://scitechdaily.com/images/Webb-Chamaeleon-I-Molecular-Cloud-scaled.jpg",
+            "publishedAt": "2023-01-24T10:03:59Z",
+            "content": "BySpace Telescope Science InstituteJanuary 24, 2023\r\nAn international team of astronomers has reported the discovery of diverse ices in the darkest regions of a cold molecular cloud measured to date … [+13423 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Jeff Zients is Mr. Fix It. But he's never had a slate of challenges like this. - POLITICO",
+            "description": "The incoming chief of staff comes aboard as Biden enters a new stretch in his presidency.",
+            "url": "https://www.politico.com/news/2023/01/24/jeff-zients-challenges-biden-presidency-00079145",
+            "urlToImage": "https://static.politico.com/b1/95/142660f5425e8df132d43c1cbaaf/https-delivery-gettyimages.com/downloads/1312336997",
+            "publishedAt": "2023-01-24T09:30:00Z",
+            "content": "Taking the job in a newly divided Washington, Zients will inherit a series of trials:\r\n- Fallout from the discovery of mishandled classified documents at Bidens residence and former office, which has… [+6110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Daniel Lawler",
+            "title": "Earth's inner core may have started spinning other way: Study - Phys.org",
+            "description": "Far below our feet, a giant may have started moving against us.",
+            "url": "https://phys.org/news/2023-01-earth-core.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/deep-below-the-surface.jpg",
+            "publishedAt": "2023-01-24T09:25:00Z",
+            "content": "Far below our feet, a giant may have started moving against us.\r\nEarth's inner core, a hot iron ball the size of Pluto, has stopped spinning in the same direction as the rest of the planet and might … [+4435 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sandee LaMotte",
+            "title": "Midriff bulge linked to later physical decline, study says - CNN",
+            "description": "Being overweight in middle age is linked to frailty in later life, which includes exhaustion, slow walking speed and low physical activity, a new study has found.",
+            "url": "https://www.cnn.com/2023/01/24/health/midriff-bulge-physical-frailty-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230123151340-midriff-bulge-physical-frailty-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-24T09:22:00Z",
+            "content": "Editors Note: Seek advice from a health care provider prior to starting a workout program.\r\nIf you are a man or woman approaching 50, look down at your middle. If youre like many people, you might ha… [+4069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Argentina and Brazil are discussing plans for a common currency — analysts can scarcely believe it - CNBC",
+            "description": "Argentina and Brazil are in early talks to create a common currency, as part of a coordinated bid to reduce reliance on the U.S. dollar.",
+            "url": "https://www.cnbc.com/2023/01/24/argentina-and-brazil-are-discussing-plans-for-a-common-currency.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107182796-1674546676703-gettyimages-1246491295-016ALBERTOLULA.jpeg?v=1674550984&w=1920&h=1080",
+            "publishedAt": "2023-01-24T09:03:04Z",
+            "content": "Argentina and Brazil, the two largest economies in South America, are in early talks to create a common currency, as part of a coordinated bid to reduce reliance on the U.S. dollar.\r\nBut some analyst… [+3347 chars]"
+        }
+    ]
+}
